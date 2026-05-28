@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this software or the NEO framework in your research, please cite it as follows."
+authors:
+  - family-names: "De Nadai"
+    given-names: "Marco"
+  - family-names: "D'Amico"
+    given-names: "Edoardo"
+  - family-names: "Lefarov"
+    given-names: "Max"
+  - family-names: "Tamborrino"
+    given-names: "Alexandre"
+  - family-names: "Vohra"
+    given-names: "Divita"
+  - family-names: "VanMiddlesworth"
+    given-names: "Mark"
+  - family-names: "Lin"
+    given-names: "Shawn"
+  - family-names: "Wood"
+    given-names: "Jacqueline"
+  - family-names: "Stypka"
+    given-names: "Jan"
+  - family-names: "Klyce"
+    given-names: "Eliza"
+title: "A Unified Language Model for Large Scale Search, Recommendation, and Reasoning"
+version: 1.0.0
+identifiers:
+  - type: doi
+    value: 10.48550/arXiv.2603.17533
+    description: "The arXiv identifier for the paper."
+date-released: 2026-03-01
+url: "https://arxiv.org/abs/2603.17533"
+repository-code: "https://github.com/denadai2/NEO-Language-Steerable-LLM-Semantic-IDs"
