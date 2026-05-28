@@ -14,3 +14,13 @@
 * **Language-Steerability:** Instruction-conditioned control over tasks (search vs. recommendation), target entity types, and output formats (IDs, text, or mixed).
 * **Constrained Decoding:** Guarantees that the model only generates valid catalog items without limiting the creativity or logic of its free-form text.
 * **Massive Scale:** Evaluated and proven on real-world catalogs of **10M+ items** across multiple media types.
+
+## Citation
+```
+@article{de2026unified,
+  title={A Unified Language Model for Large Scale Search, Recommendation, and Reasoning},
+  author={De Nadai, Marco and D'Amico, Edoardo and Lefarov, Max and Tamborrino, Alexandre and Vohra, Divita and VanMiddlesworth, Mark and Lin, Shawn and Wood, Jacqueline and Stypka, Jan and Klyce, Eliza and others},
+  journal={arXiv preprint arXiv:2603.17533},
+  year={2026}
+} 
+```
